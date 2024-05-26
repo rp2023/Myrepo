@@ -1,1 +1,7 @@
 This is txt file
+
+//story-121
+a=1
+b=2
+c=a+b
+
