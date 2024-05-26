@@ -13,3 +13,4 @@ c=a+b
 x=14
 age =12
 int=12
+age in int=30;
