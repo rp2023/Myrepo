@@ -1,6 +1,10 @@
 This is txt file
 
 //story-121
+x=20
+y=23
+z=x+y
+
 a=1
 b=2
 c=a+b
