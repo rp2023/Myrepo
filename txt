@@ -5,3 +5,7 @@ a=1
 b=2
 c=a+b
 
+//changes for story 131
+x=14
+age =12
+int=12
