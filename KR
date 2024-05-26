@@ -1,4 +1,14 @@
+
 rahul
 #! /bin/bash
 
 echo
+
+#! /bin/bash
+
+echo "enter name"
+read name
+echo "hello $num"
+
+
+
